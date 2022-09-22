@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Bharathy@2998",
+    "database": "db_studentportal",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Bharathy@2998",
+    "database": "db_studentportal",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Bharathy@2998",
+    "database": "db_studentportal",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
